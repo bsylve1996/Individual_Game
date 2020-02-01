@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: ff0c367c19ff21a408749f1f5e095db6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6661667503163661122
+    second: Sword1
+  - first:
+      213: 8917703099049592933
+    second: Sword2
+  - first:
+      213: 645793739151404868
+    second: Sword3
+  - first:
+      213: 8543412109613828998
+    second: Shield2
+  - first:
+      213: 3575573264595905874
+    second: Shield3
+  - first:
+      213: -9133753443858578452
+    second: Knife1
+  - first:
+      213: 4173238828344279542
+    second: Knife2
+  - first:
+      213: 1049884751975200004
+    second: Knife3
+  - first:
+      213: 1008871953538273300
+    second: Shield1
+  - first:
+      213: 3882565266710806058
+    second: Axe1
+  - first:
+      213: 8796966304636516665
+    second: Axe2
+  - first:
+      213: -728463953504754468
+    second: Axe3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +76,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -60,7 +96,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 32
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -72,7 +108,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 32
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -84,7 +120,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Windows Store Apps
-    maxTextureSize: 2048
+    maxTextureSize: 32
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -96,7 +132,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 2048
+    maxTextureSize: 32
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -108,7 +144,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 2048
+    maxTextureSize: 32
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -120,7 +156,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
+    maxTextureSize: 32
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -132,7 +168,259 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sword1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.10380993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd079c448535f9e44b51c2c47786ee52
+      internalID: -6661667503163661122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.11252804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e2d97f8a7df94d948b5b8f63ef507
+      internalID: 8917703099049592933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 21
+        width: 4
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09723282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b328f6377d9620448b21a0e600a3093f
+      internalID: 645793739151404868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d2a049f9539b44ba14889c18633a94
+      internalID: 8543412109613828998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad9ce0cedab78b468eeed82f6708435
+      internalID: 3575573264595905874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.1601119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca4e68141c9bca489b69ee906ffbe83
+      internalID: -9133753443858578452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.51274574, y: 0.17710686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a6e1353dabd094c93ab004380549cc
+      internalID: 4173238828344279542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 13
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.51274586, y: 0.16860962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcaf38065d351e4d827ef1df115361b
+      internalID: 1049884751975200004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc36df051633c418592d784456f817
+      internalID: 1008871953538273300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.66144675, y: 0.20429754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71f7bcee9d04014fb71b736a20fe40b
+      internalID: 3882565266710806058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.66994447, y: 0.20429754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd80f14e01f004247a450461549e5656
+      internalID: 8796966304636516665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.6614472, y: 0.1941009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554b968191faae04dbb82eb9360fc8d0
+      internalID: -728463953504754468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
