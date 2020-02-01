@@ -1,0 +1,1 @@
+forfiles /s /c "cmd /q /c if @fsize GTR 1073741824 echo @relpath" >> .gitignore
